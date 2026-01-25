@@ -4,6 +4,10 @@
 
 ![Relations Dashboard](Dashboards/Relations.png)
 
+### Scouting Dashboard
+
+![Scouting Dashboard](Dashboards/Scouting.png)
+
 ### Players Dashboard
 
 ![Teams Dashboard](Dashboards/Players.png)
